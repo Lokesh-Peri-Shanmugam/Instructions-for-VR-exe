@@ -1,0 +1,13 @@
+Instructions to make EXE for VR tour
+
+Copyfollowing things
+
+
+Assets
+node_modules
+main.js
+package.json
+package-lock.json
+
+
+run command from package.json
